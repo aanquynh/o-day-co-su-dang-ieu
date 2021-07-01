@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'Hí lại là chị Quỳnh đâyyy!',
+    introDesc: `Học hành gì chưa mà còn vào đây chơi thế hả, muốn gì, muốn được phát ny phải khum :>>,
+    btnIntro: 'Mơ đi nhá -.-',
+    title: 'Học không chơi đánh rơi tuổi trẻ 😙',
+    desc: 'Chơi không học bán rẻ tương lai :> ',
+    btnYes: 'Đâu, em vẫn đang chăm chỉ mà',
+    btnNo: 'Em đang chơi rồi lewlew 😁',
+    question:'Chị nói vậy thoii, dù học hành nhưng cũng đừng quên ăn uống đủ chất, ngủ sớm đi nha, đừng thức khuya quá đó -.- ',
+    btnReply: 'Yêu rất nhìu ạ <3',
+    reply: 'Em biểt rồi chị, em hứa mà',
+    mess: 'Ừa, sắp về đích rùii đó, mấy ngày nữa thoii 😘😘',
+    messDesc: 'Chúc babe bình tĩnh, tự tin, làm bài thật tốt nha.🍀2k3 luôn bản lĩnh và mạnh mẽ nhất mà <3 FIGHTING!!!.',
+    btnAccept: 'Okiiiii chị, thi đỗ nhớ phát ny cho em nhá <3',
     messLink: 'https://m.me/annquynh160202' 
 }
