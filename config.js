@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Hí lại là chị Quỳnh đâyyy!',
-    introDesc: `Học hành gì chưa mà còn vào đây chơi thế hả, muốn gì, có phải muốn được phát ny khum :>>,
+    introDesc: `Học hành gì chưa mà còn vào đây chơi thế hả, muốn gì, có phải muốn được phát ny khum :>,
     btnIntro: 'Mơ đi nhá -.-',
     title: 'Học không chơi đánh rơi tuổi trẻ 😙',
     desc: 'Chơi không học bán rẻ tương lai :> ',
